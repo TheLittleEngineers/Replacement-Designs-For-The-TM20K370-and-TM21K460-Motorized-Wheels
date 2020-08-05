@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<!DOCTYPE eMachineShop3DObjects SYSTEM "eMachineShop3DObjects_v1.3.dtd">
+<eMachineShop3DObjects VersionId="1.3">
+ <View Type="Top">
+  <Region Id="5" BaseHeight="0" Z="3.17">
+   <Machine Id="41" Name="Auto"/>
+   <Contour>
+    <Straight Id="1" P1="0,101.6" P2="0,0"/>
+    <Straight Id="2" P1="0,0" P2="101.6,0"/>
+    <Straight Id="3" P1="101.6,0" P2="101.6,101.6"/>
+    <Straight Id="4" P1="101.6,101.6" P2="0,101.6"/>
+   </Contour>
+  </Region>
+  <Region Id="304" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M14x1.25 Left Hand" Length="Maximal" Type="M" Hand="left"/>
+   </Processing>
+   <Contour>
+    <Circle Id="304" Center="50.8,50.8" Radius="6.3995"/>
+   </Contour>
+  </Region>
+  <Region Id="450" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="450" Center="95.368768,69.889589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="451" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="451" Center="95.368768,57.189589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="452" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="452" Center="95.368768,44.489589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="453" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="453" Center="95.368768,31.789589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="454" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="454" Center="95.368768,19.089589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="455" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="455" Center="82.668768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="456" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="456" Center="95.368768,82.589589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="457" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="457" Center="82.668768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="458" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="458" Center="69.968768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="459" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="459" Center="57.268768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="460" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="460" Center="44.568768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="461" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="461" Center="31.868768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="462" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="462" Center="69.968768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="463" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="463" Center="57.268768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="464" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="464" Center="44.568768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="465" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="465" Center="31.868768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="466" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="466" Center="19.168768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="467" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="467" Center="6.468768,19.089589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="468" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="468" Center="6.468768,31.789589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="469" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="469" Center="6.468768,44.489589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="470" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="470" Center="6.468768,57.189589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="471" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="471" Center="6.468768,69.889589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="472" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="472" Center="6.468768,82.589589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="473" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="473" Center="19.168768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="525" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="525" Position="18.568778,94.289589" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="526" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="526" Position="69.24488,94.083089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="527" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="527" Position="56.54488,94.083089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="528" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="528" Position="43.84488,94.083089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="529" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="529" Position="31.14488,94.083089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="530" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="530" Position="5.74488,81.383089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="531" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="531" Position="81.94488,94.083089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="532" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="532" Position="5.74488,55.983089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="533" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="533" Position="5.74488,43.283089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="534" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="534" Position="5.74488,30.583089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="535" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="535" Position="5.74488,17.883089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="536" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="536" Position="5.74488,68.683089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="537" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="537" Position="18.44488,5.183089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="538" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="538" Position="31.14488,5.183089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="539" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="539" Position="43.84488,5.183089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="540" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="540" Position="56.54488,5.183089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="541" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="541" Position="69.24488,5.183089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="542" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="542" Position="81.94488,5.183089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="543" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="543" Position="94.64488,81.383089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="544" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="544" Position="94.64488,68.683089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="545" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="545" Position="94.64488,55.983089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="546" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="546" Position="94.64488,43.283089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="547" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="547" Position="94.64488,30.583089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="548" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="548" Position="94.64488,17.883089" Height="2.413" FontName="" HFlip="0" VFlip="0" Angle="0">J</Text>
+   </Contour>
+  </Region>
+  <Region Id="549" BaseHeight="0" Z="-1">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Text Id="549" Position="47.626932,46.8" Height="8" FontName="" HFlip="0" VFlip="0" Angle="0">K</Text>
+   </Contour>
+  </Region>
+  <Region Id="551" BaseHeight="3.17" Z="AirInside" BottomType="Drill">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="551" Center="6.468768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="553" BaseHeight="3.17" Z="AirInside" BottomType="Drill">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="553" Center="95.368768,95.289589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="555" BaseHeight="3.17" Z="AirInside" BottomType="Drill">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="555" Center="95.368768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="557" BaseHeight="3.17" Z="AirInside" BottomType="Drill">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M6x1" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="557" Center="6.468768,6.389589" Radius="2.5005"/>
+   </Contour>
+  </Region>
+  <Region Id="569" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="569" Center="37.8,63.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="571" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="571" Center="63.8,63.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="573" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="573" Center="37.8,37.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="575" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="575" Center="63.8,37.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="577" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="577" Center="42.8,58.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="579" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="579" Center="58.8,58.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="581" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="581" Center="42.8,42.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="583" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="583" Center="58.8,42.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="585" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="585" Center="58.8,42.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="586" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="586" Center="42.8,42.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="587" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="587" Center="58.8,58.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="588" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="588" Center="42.8,58.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="589" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="589" Center="63.8,37.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="590" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="590" Center="37.8,37.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="591" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="591" Center="63.8,63.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="592" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="592" Center="37.8,63.8" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="598" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="598" Center="22.05,79.55" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="600" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="600" Center="79.55,79.55" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="602" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="602" Center="22.05,22.05" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="604" BaseHeight="0" Z="AirInside" BottomType="Drill">
+   <Machine Id="14" Name="Comment" CTM="0"/>
+   <Contour>
+    <Circle Id="604" Center="79.55,22.05" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="606" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="606" Center="22.05,79.55" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="607" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="607" Center="79.55,79.55" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="608" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="608" Center="22.05,22.05" Radius="1.6495"/>
+   </Contour>
+  </Region>
+  <Region Id="609" BaseHeight="3.17" Z="AirInside">
+   <Machine Id="41" Name="Auto"/>
+   <Processing>
+    <Thread Parameters="M4x0.7" Length="Maximal" Type="M"/>
+   </Processing>
+   <Contour>
+    <Circle Id="609" Center="79.55,22.05" Radius="1.6495"/>
+   </Contour>
+  </Region>
+ </View>
+ <QuantityOfParts Value="10"/>
+ <Specifications>
+  <Specification MachineId="41" Name="Tolerance" Value="0.762" />
+  <Specification MachineId="41" Name="Flatness" Value="76.2" />
+  <Specification MachineId="41" Name="EdgeDraft" Value="5" />
+  <Specification MachineId="41" Name="SurfaceRoughness" Value="12.5" />
+  <Specification MachineId="41" Name="EdgeRoughness" Value="25" />
+  <Specification MachineId="41" Name="MaterialThicknessTolerance" Value="20" />
+ </Specifications>
+</eMachineShop3DObjects>
