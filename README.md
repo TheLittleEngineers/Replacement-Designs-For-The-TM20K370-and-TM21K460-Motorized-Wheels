@@ -22,10 +22,7 @@
 <!-- Top Row -->
 <div align="center">
   <center>
-  <table border="0" cellpadding="0" cellspacing="4" width="94%">
-    <tr>
-      <td valign="bottom" colspan="3">
-<br>
+ <br>
 The Little Engineers Replacement Designs For The TM20K370 and TM21K460 Motorized Wheels
 <br>
 <a href="http://www.TheLittleEngineers.org/">http://www.TheLittleEngineers.org/<a>
@@ -57,14 +54,6 @@ In my quest to build Tod Loofbourrows "Microtron" Robot, it became necessary to 
 <p align="justify">The disclaimer states as plainly as possible that if you decide to make use of any of the information contained within this document and/or any of the accompanying files that you do so at your own risk. Designing products for the <a href="http://www.TheLittleEngineers.org/" target="_blank">Little Engineers Project</a> and/or affiliates is not motivated by any desire of profits. As this is a not for profit venture, obviously we can't afford not to disclaim the use of this information. Thank You for your understanding and acceptance of these terms of use.</p>
 <hr>
 <!-- /Top Row -->
-</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
 <!-- Top Left Column -->
 <div class="row" style="background-color:WhiteSmoke;" align="center">
 <div class="column" style="background-color:WhiteSmoke;" align="center">
