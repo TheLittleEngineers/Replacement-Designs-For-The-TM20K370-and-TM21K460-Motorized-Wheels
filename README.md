@@ -19,14 +19,12 @@
 
 <!-- Top Row -->
 <center>
-<p align="center">
 # Replacement-Designs-For-The-TM20K370-and-TM21K460-Motorized-Wheels
 # Previously: &quot;The Little Engineers Replacement Designs For The TM20K370 and TM21K460 Motorized Wheels&quot;
 <br>
 The Little Engineers Replacement Designs For The TM20K370 and TM21K460 Motorized Wheels
 <br>
 <a href="http://www.TheLittleEngineers.org/">http://www.TheLittleEngineers.org/<a>
-</p>
 <br>
 <p align="justify">
 We are in search of machine shop(s) that might be willing to provide prototype level machining services in exchange for being listed as a recommended manufacturer and/or supplier in all of the open source projects created by The Little Engineers. Contact may be made via: <a href="https://www.facebook.com/OurLittleEngineers/">https://www.facebook.com/OurLittleEngineers/</a> and/or <a href="https://www.facebook.com/groups/985537051651794/">https://www.facebook.com/groups/985537051651794/</a>
@@ -37,11 +35,9 @@ All of the projects from The Little Engineers may be found here: <a href="https:
 <br>
 In my quest to build Tod Loofbourrows "Microtron" Robot, it became necessary to design a suitable replacement for the long discontinued motorized wheels that Tod made use of - The Herbach and Rademan, Inc. Catalog #TM20K370 Motorized Wheel. That original version was later replaced by Catalog #TM21K460 which was more or less a direct replacement and then almost a decade later by a much cheaper version of which I do not currently have a catalog number. The much cheaper version can be seen in "BUILD A REMOTE-CONTROLLED ROBOT FOR UNDER $300" by David R. Shircliff, now being published as "BUILD A REMOTE CONTROLLED ROBOT" by David R. Shircliff. That book, in its currently published form, does a terrible disservice to its readers by continuing to cite Herbach and Rademan as the source for those motorized wheels which have not been available for decades - it needs to be seriously updated to recommend some other type of motorized wheel rather than continuing to recommend a motorized caster wheel that has been unavailable for decades. Tods original MicroTron "Mike" article may be found here: <a href="https://archive.org/details/197704InterfaceAge">https://archive.org/details/197704InterfaceAge</a> with further information available here: <a href="http://microtron.nu/">http://microtron.nu/</a>, here: <a href="http://cyberneticzoo.com/wp-content/uploads/2010/09/Mike-Microtron-InterfaceAge-Apr1977.pdf">http://cyberneticzoo.com/wp-content/uploads/2010/09/Mike-Microtron-InterfaceAge-Apr1977.pdf</a> and here: <a href="http://microtron.nu/introducing-microtron/">http://microtron.nu/introducing-microtron/</a> with complete construction details available in the book "HOW TO BUILD A COMPUTER-CONTROLLED ROBOT" by Tod Loofbourrow. It might also be pertinent to review "BUILD YOUR OWN WORKING ROBOT" by David L. Heiserman as Tod utilized the Drive and Steering circuits from Davids book to interface MicroTrons computer to the motorized wheels.
 </p>
-<p align="center">
 # We are looking for copies of the monthly Herbach and Rademan Catalogs from 1974 through 1987. Any assistance would be greatly appreciated.
 <br>
 # NOTE: NOTHING HAS BEEN TESTED AS OF YET - PLEASE COMPARE ANYTHING WITH A 1:1 PRINTOUT OR MAKE A 3D PRINT BEFORE HAVING ANYTHING MANUFACTURED.
-</p>
 <p align="center">
 <font size="6"><a href="http://www.TheLittleEngineers.org/" target="_blank">The</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Little</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Engineers</a><br></font>
 <font size="5"><em><b><a href="https://www.facebook.com/OurLittleEngineers/" target="_blank">Pulling</a> <a href="https://www.facebook.com/groups/985537051651794/" target="_blank">The</a> <a href="https://www.facebook.com/groups/566741160795144/" target="_blank">Past</a> <a href="https://www.facebook.com/TheLittleEngineers.org" target="_blank">Into</a> <a href="https://www.facebook.com/tincansandducttape/" target="_blank">The</a> <a href="https://www.facebook.com/Tin-Cans-Duct-Tape-728969003939754/" target="_blank">Present</a> <a href="https://www.facebook.com/groups/1654785514796788/" target="_blank">For</a> <a href="https://www.facebook.com/groups/1828354620822631/" target="_blank">The</a> <a href="https://www.facebook.com/groups/1451396811790867/" target="_blank">Future</a><a href="https://www.facebook.com/cpldfpga/" target="_blank"></a></b></em><br></font>
