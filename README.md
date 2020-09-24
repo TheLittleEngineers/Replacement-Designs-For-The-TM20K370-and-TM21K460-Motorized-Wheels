@@ -20,6 +20,7 @@
 <body style="background-color:WhiteSmoke;">
 
 <!-- Top Row -->
+<div align="center">
 <center>
 <br>
 The Little Engineers Replacement Designs For The TM20K370 and TM21K460 Motorized Wheels
